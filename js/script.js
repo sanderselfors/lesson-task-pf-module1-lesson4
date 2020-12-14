@@ -1,5 +1,4 @@
 // question 1
-
 //do the loop while i is less than 8
 for (var i = 0; i < 8; i++) {
     console.log(i);
